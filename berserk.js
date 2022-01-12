@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name     avannaBerserk
-// @version  1.1.1.1
+// @name     lichessZerk
+// @version  1.1.1.1.1
 // @grant    none
 // @run-at   document-idle
 // @include  /^https:\/\/lichess\.org\/([a-zA-Z0-9\/]){6,}
