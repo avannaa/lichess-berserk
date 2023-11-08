@@ -1,6 +1,6 @@
 # lichess-berserk
 always berserk / always berserk back  
-use the contents of `berserk.js` in something like tampermonkey
+use the contents of `berserk.js` in something like ![tampermonkey](https://www.tampermonkey.net/)
 
 ![example image](https://i.imgur.com/2DookIq.png)
 
